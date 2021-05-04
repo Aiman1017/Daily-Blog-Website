@@ -5,3 +5,5 @@ This is a personal Blog Website. This blog website provide a simple layout for u
 If you want to make a post, simply type in the url "/compose/".
 
 If you want to see a specific post, type "/post/post title here"
+
+Here is the website url: https://aiman-daily-blog.herokuapp.com 
